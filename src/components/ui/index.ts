@@ -26,4 +26,5 @@ export {
 } from './form';
 export { Accordion, AccordionItem, AccordionTrigger, AccordionContent } from './accordion';
 export { Tabs, TabsList, TabsTrigger, TabsContent } from './tabs';
+export { Alert, AlertTitle, AlertDescription } from './alert';
 
